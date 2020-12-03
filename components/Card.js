@@ -1,4 +1,4 @@
-function Card ({ movie }) {
+function Card({ movie }) {
   return <>{movie.Title}</>
 }
 
