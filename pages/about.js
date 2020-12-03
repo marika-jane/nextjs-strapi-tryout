@@ -1,5 +1,5 @@
 function About() {
-    return 'I\'m an about page'
+  return "I'm an about page"
 }
 
 export default About
